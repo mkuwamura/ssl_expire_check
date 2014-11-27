@@ -18,7 +18,10 @@
 
 windowsからアップしたら権限どうなるのかな？？。chmodで権限与えといてください。
 
-### リストを適度に修正
+#### リストを適度に修正
+
+    vi check_url_list
+	
 cronにするもよし、私は
 
     /home/mkuwamura/ssl_expire_check/ssl_expire_check.sh >/var/www/html/expire.chkc.html

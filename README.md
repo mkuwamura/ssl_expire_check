@@ -1,4 +1,4 @@
-﻿# ssl_expire_check
+# ssl_expire_check
 
 リストから読み取って、SSL証明書の残日数を確認するシェルスクリプトです。HTMLで表示できるように適当に挿入
 

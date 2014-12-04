@@ -10,3 +10,4 @@ do
   echo -e "\t$DOMAIN<BR>"
   echo -e "\r\n"
 done <$SCRIPT_DIR/check_url_list
+echo "END<BR>"
